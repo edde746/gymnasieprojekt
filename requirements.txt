@@ -1,0 +1,7 @@
+django
+stripe
+sendgrid
+python-dotenv
+gunicorn
+whitenoise
+Pillow
